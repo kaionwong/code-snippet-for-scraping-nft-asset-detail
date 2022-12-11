@@ -1,4 +1,4 @@
-# code-snippet-for-scraping-nft-asset-detail
+# Code snippet for scraping nft asset detail via gem.xyz
 This is a working code snippet that extracts the metadata details of any asset from any NFT collection on the Ethereum blockchain. It's working as of `2022-12-11`, and should be working as long as GEM.xyz doesn't change its API framework. Two parameters are needed including the `collection_contract` and `token_id`.
 
 The followings are the outputs for token `8069` for contract `0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D` (Bored Ape Yacht Club):
